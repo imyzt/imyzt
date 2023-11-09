@@ -3,6 +3,6 @@
 👋 Hi, I'm yzt.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![imyzt's github stats](https://github-readme-stats.vercel.app/api?username=imyzt&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/imyzt)
+| <a href="https://github.com/imyzt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imyzt&show_icons=true&include_all_commits=true&hide_border=true" alt="imyzt github stats" /></a> | <a href="https://github.com/imyzt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyzt&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
