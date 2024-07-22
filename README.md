@@ -19,3 +19,4 @@
 2. [【问题分析】CircuitBreak导致ThreadLocal参数丢失问题](https://imyzt.github.io/post/circuitbreak-dao-zhi-threadlocal-can-shu-diu-shi-wen-ti/)
 3. [【问题分析】RocketMQ Client 启动异常解决](https://imyzt.top/post/rocketmq-client-qi-dong-yi-chang-jie-jue/)
 4. [【项目实战】错用HashedWheelTimer导致的OOM问题](https://imyzt.github.io/post/cuo-yong-hashedwheeltimer-dao-zhi-de-oom-wen-ti/)
+5. [【项目实战】MySQL GROUP BY 隐式排序](https://imyzt.top/post/mysql-group-by-yin-shi-pai-xu/)
