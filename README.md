@@ -7,7 +7,7 @@
 | ------------- | ------------- |
 
 
-![snk](https://raw.githubusercontent.com/imyzt/imyzt/output/github-contribution-grid-snake.svg)
+
 
 <p align="center">
   Visitor count<br>
