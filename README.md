@@ -3,16 +3,16 @@
 👋 Hi, I'm yzt.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| <a href="https://github.com/imyzt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imyzt&show_icons=true&include_all_commits=true&hide_border=true" alt="imyzt github stats" /></a> | <a href="https://github.com/imyzt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyzt&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/imyzt"><img align="center" src="https://github-readme-stats-vercel-imyzts-projects.vercel.app/api?username=imyzt&show_icons=true&include_all_commits=true&hide_border=true" alt="imyzt github stats" /></a> | <a href="https://github.com/imyzt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyzt&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
 
 
-<p align="center">
+<!-- <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/imyzt/count.svg" />
-</p>
+</p> -->
 
 # 文章推荐
 1. [【问题分析】业务逻辑编排错误 & TTL浅拷贝导致参数丢失问题](https://imyzt.github.io/post/ye-wu-luo-ji-bian-pai-cuo-wu-and-ttl-qian-kao-bei-dao-zhi-can-shu-diu-shi-wen-ti/)
