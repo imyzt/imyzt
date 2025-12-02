@@ -3,7 +3,7 @@
 👋 Hi, I'm yzt.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| <a href="https://github.com/imyzt"><img align="center" src="https://github-readme-stats-vercel-imyzts-projects.vercel.app/api?username=imyzt&show_icons=true&include_all_commits=true&hide_border=true" alt="imyzt github stats" /></a> | <a href="https://github.com/imyzt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyzt&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/imyzt"><img align="center" src="https://github-readme-stats-vercel-imyzts-projects.vercel.app/api?username=imyzt&show_icons=true&include_all_commits=true&hide_border=true" alt="imyzt github stats" /></a> | <a href="https://github.com/imyzt"><img align="center" src="https://github-readme-stats-vercel-imyzts-projects.vercel.app/api?username=imyzt&show_icons=true&include_all_commits=true&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
